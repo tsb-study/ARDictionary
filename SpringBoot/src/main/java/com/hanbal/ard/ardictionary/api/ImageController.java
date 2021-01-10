@@ -1,4 +1,4 @@
-package com.hanbal.ard.ardictionary.controller;
+package com.hanbal.ard.ardictionary.api;
 
 import com.hanbal.ard.ardictionary.service.ImageService;
 
